@@ -1,0 +1,22 @@
+{
+  "properties": [
+    {
+      "name": "atxiaojie.rocketmqutils.consumerGroup",
+      "type": "java.lang.String",
+      "description": "Consumer groups.",
+      "sourceType": "com.atxiaojie.rocketmq.utils.autoconfiguration.RoctetmqUtilsAutoConfiguration"
+    },
+    {
+      "name": "atxiaojie.rocketmqutils.producerGroup",
+      "type": "java.lang.String",
+      "description": "Production groups.",
+      "sourceType": "com.atxiaojie.rocketmq.utils.autoconfiguration.RoctetmqUtilsAutoConfiguration"
+    },
+    {
+      "name": "atxiaojie.rocketmqutils.namesrvAddr",
+      "type": "java.lang.String",
+      "description": "Network address to which the Roctetmq server should bind.",
+      "sourceType": "com.atxiaojie.rocketmq.utils.autoconfiguration.RoctetmqUtilsAutoConfiguration"
+    }
+  ]
+}

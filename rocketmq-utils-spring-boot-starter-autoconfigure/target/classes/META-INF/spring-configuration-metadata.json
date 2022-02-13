@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "atxiaojie.rocketmqutils",
+      "type": "com.atxiaojie.rocketmq.utils.bean.RoctetmqUtilsProperties",
+      "sourceType": "com.atxiaojie.rocketmq.utils.bean.RoctetmqUtilsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "atxiaojie.rocketmqutils.consumer-group",
+      "type": "java.lang.String",
+      "sourceType": "com.atxiaojie.rocketmq.utils.bean.RoctetmqUtilsProperties"
+    },
+    {
+      "name": "atxiaojie.rocketmqutils.namesrv-addr",
+      "type": "java.lang.String",
+      "sourceType": "com.atxiaojie.rocketmq.utils.bean.RoctetmqUtilsProperties"
+    },
+    {
+      "name": "atxiaojie.rocketmqutils.producer-group",
+      "type": "java.lang.String",
+      "sourceType": "com.atxiaojie.rocketmq.utils.bean.RoctetmqUtilsProperties"
+    }
+  ],
+  "hints": []
+}

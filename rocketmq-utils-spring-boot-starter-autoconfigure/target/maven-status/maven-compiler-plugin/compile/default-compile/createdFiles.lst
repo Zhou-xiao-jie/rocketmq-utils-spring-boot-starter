@@ -1,0 +1,5 @@
+com\atxiaojie\rocketmq\utils\service\RocketConsumer.class
+com\atxiaojie\rocketmq\utils\autoconfiguration\RoctetmqUtilsAutoConfiguration.class
+com\atxiaojie\rocketmq\utils\bean\RoctetmqUtilsProperties.class
+com\atxiaojie\rocketmq\utils\service\RocketConsumer$HeaderInterface.class
+com\atxiaojie\rocketmq\utils\service\RocketProducer.class

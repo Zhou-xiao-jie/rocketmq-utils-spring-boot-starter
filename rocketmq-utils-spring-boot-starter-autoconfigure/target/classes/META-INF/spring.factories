@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.atxiaojie.rocketmq.utils.autoconfiguration.RoctetmqUtilsAutoConfiguration
